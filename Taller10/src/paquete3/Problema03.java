@@ -5,10 +5,15 @@
  */
 package paquete3;
 
+import java.util.Scanner;
+
 /**
  *
  * @author reroes
  */
 public class Problema03 {
-    
+
+    public static void main(String[] args) {
+
+    }
 }
